@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Twitter Client</string>
+    <string name="login_label">Log in</string>
+    <string name="title_activity_timeline">Home Timeline</string>
+    <string name="title_activity_compose">Compose Tweet</string>
+    <string name="placeholder_name">Some Guy</string>
+    <string name="placeholder_body">My cool tweet text. It is super long and stuff.  It is a long tweet.</string>
+    <string name="placeholder_screenname">\@screenname</string>
+    <string name="placeholder_timeago">22m</string>
+    <string name="action_compose">Compose</string>
+    <string name="whats_happening">What\'s Happening...</string>
+    <string name="action_submit">Tweet</string>
+    <string name="tweet">Tweet</string>
+    <string name="action_logout">Logout</string>
+    <string name="check_internet">Please check your internet connection.</string>
+    <string name="logout_success">Successfully logged out</string>
+    <string name="tweet_post_success">Successfully posted new tweet</string>
+    <string name="tweet_post_failure">Failed to post new tweet</string>
+    <string name="tweets">Tweets</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
