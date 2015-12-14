@@ -19,12 +19,13 @@ The following **required** functionality is completed:
  * [x] User can see picture, tagline, # of followers, # of following, and tweets of clicked user.
  * [x] Profile view includes that user's timeline
 * [x] User can [infinitely paginate](http://guides.codepath.com/android/Endless-Scrolling-with-AdapterViews) any of these timelines (home, mentions, user) by scrolling to the bottom
+* [x] Links are clickable and open in browser
 
 The following **optional** features are implemented:
 
 * [x] Implements robust error handling, [check if internet is available](http://guides.codepath.com/android/Sending-and-Managing-Network-Requests#checking-for-network-connectivity), handle error cases (like null response from twitter api), network failures, etc.
-* [ ] User can view following / followers list through the profile
-* [ ] When a network request is sent, user sees an [indeterminate progress indicator](http://guides.codepath.com/android/Handling-ProgressBars#progress-within-actionbar)
+* [x] User can view following / followers list through the profile
+* [x] When a network request is sent, user sees an [indeterminate progress indicator](http://guides.codepath.com/android/Handling-ProgressBars#progress-within-actionbar)
 * 
 The following **additional** features are implemented:
 
