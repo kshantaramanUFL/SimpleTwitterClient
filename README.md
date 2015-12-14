@@ -7,13 +7,12 @@ Time spent: **30** hours spent in total.
 ## User Stories
 
 
-The following **required** functionality is completed:
+The following functionality is completed:
 
 * 
 * [x] User can **switch between Timeline and Mention views using tabs**
   * [x] User can view their home timeline tweets.
   * [x] User can view the recent mentions of their username.
-* [x] User can navigate to **view their own profile**
   * [x] User can see picture, tagline, # of followers, # of following, and tweets on their profile.
 * [x] User can **click on the profile image** in any tweet to see **another user's** profile.
  * [x] User can see picture, tagline, # of followers, # of following, and tweets of clicked user.
@@ -21,12 +20,6 @@ The following **required** functionality is completed:
 * [x] User can [infinitely paginate](http://guides.codepath.com/android/Endless-Scrolling-with-AdapterViews) any of these timelines (home, mentions, user) by scrolling to the bottom
 * [x] Links are clickable and open in browser
 
-The following **optional** features are implemented:
-
-* [x] Implements robust error handling, [check if internet is available](http://guides.codepath.com/android/Sending-and-Managing-Network-Requests#checking-for-network-connectivity), handle error cases (like null response from twitter api), network failures, etc.
-* [x] User can view following / followers list through the profile
-* [x] When a network request is sent, user sees an [indeterminate progress indicator](http://guides.codepath.com/android/Handling-ProgressBars#progress-within-actionbar)
-* 
 The following **additional** features are implemented:
 
 * [x] Added the ability to log out
